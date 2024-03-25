@@ -355,7 +355,6 @@ a img.aligncenter {
     background-color: rgba(255, 255, 255, 0.1);
     display: block;
     left: 0;
-    position: absolute;
     right: 0;
     top: 0;
     width: 100%;
@@ -397,6 +396,7 @@ a img.aligncenter {
     width: 0;
     height: 15%;
     background: #076799;
+    position: absolute;
     bottom: 0;
     left: 0;
     border-radius: 4px;
