@@ -562,7 +562,7 @@ li.social-links a {
     position: relative;
     z-index: 1;
     top: 50%;
-    margin-top: 80px;
+    margin-top: 0px;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
