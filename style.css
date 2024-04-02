@@ -107,7 +107,6 @@ h6 {
     color: #1f1f1f;
     margin: 0
 }
-
 h1 {
     font-size: 24px
 }
@@ -130,6 +129,18 @@ h5 {
 
 h6 {
     font-size: 13px
+}
+
+h7 {
+    font-size: 15px;
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: 120% !important;
+    color: ffffff;
+    margin: 0;
 }
 
 h1 a,
