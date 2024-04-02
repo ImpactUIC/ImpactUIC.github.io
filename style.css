@@ -132,13 +132,13 @@ h6 {
 }
 
 h7 {
-    font-size: 15px;
+    font-size: 13px;
     letter-spacing: 0;
     font-weight: normal;
     position: relative;
     padding: 0 0 10px 0;
     font-weight: normal;
-    line-height: 120% !important;
+    line-height: 110% !important;
     color: ffffff;
     margin: 0;
 }
@@ -731,7 +731,9 @@ li.social-links a {
 .section.db h3 {
     color: #ffffff;
 }
-
+.section.db h7 {
+    color: #ffffff;
+}
 
 /*------------------------------------------------------------------
     PORTFOLIO
